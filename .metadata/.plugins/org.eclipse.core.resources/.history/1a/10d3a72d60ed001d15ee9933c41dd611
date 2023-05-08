@@ -1,0 +1,19 @@
+package gitjenkin.org;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class GitJenkins {
+	
+	private void rahmant() {
+		System.out.println("DEVELOPER NAME :");
+		System.out.println("DEVELOPER ROLE :");
+		System.out.println("DEVELOPER DOB :");
+		System.out.println("DEVELOPER PROFILE :");
+		System.out.println("DEVELOPER AGE :");   
+		
+		System.out.println("DEVELOPER GENDER :");
+
+	}
+
+}
